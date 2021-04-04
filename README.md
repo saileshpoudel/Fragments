@@ -12,7 +12,7 @@
 ## Second Activity
 ![d](https://user-images.githubusercontent.com/41099217/111143728-40a08f00-85ae-11eb-8696-419958b5d64f.png)
 
-## GIF Overview of Fragment App
+## GIF Overview of Fragment App.
 ![fragment](https://user-images.githubusercontent.com/41099217/111143841-64fc6b80-85ae-11eb-8f78-fb95c096bf54.gif)
 
 
